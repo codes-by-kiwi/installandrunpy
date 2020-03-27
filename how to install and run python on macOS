@@ -1,0 +1,18 @@
+How to install python on macOS
+
+1. Check if Python is already installed 
+Go to the terminal and write python3 --version
+If it matches the most recent downloadable version from : https://www.python.org/downloads/, 
+go straight to starting coding
+
+2. If it does not match the recent downloadable version from : https://www.python.org/downloads/,
+click on download Python symbol on the website.
+
+Double click on the .pkg file that is titled "Install Python" and follow the instructions
+
+Check where this version of python is saved and copy paste it to the applications
+
+3. now write python3 --version and check again in the terminal 
+4. Write a code file in python saved with the extension ".py"
+
+5. Run on terminal by writing python3 filename.py
